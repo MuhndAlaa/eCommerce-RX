@@ -1,0 +1,14 @@
+.product-details.card{
+    width: 70%;
+    margin: 100px auto;
+}
+
+.product-details.card img{
+    width: 70%;
+}
+
+
+.spinner{
+    margin: 100px auto;
+    text-align: center;
+}

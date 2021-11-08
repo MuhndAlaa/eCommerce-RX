@@ -1,0 +1,11 @@
+.product.card{
+    min-height: 500px;
+}
+.product.card img{
+    object-fit: contain;
+    height: 300px;
+}
+.product-link{
+    text-decoration: none;
+    color: #000;
+}
